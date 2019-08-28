@@ -276,3 +276,7 @@ side .sobremim .otexto2 {
     text-align: center;
     color: steelblue;
 }
+
+.row .col-xs-12 .image-flip .mainflip .frontside .card .card-body .img-fluid {
+    width: 50%;
+}
